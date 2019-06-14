@@ -12,7 +12,9 @@ Ding might be a data management professional with over 4 years of practical expe
 
 Technical Summary
 •	Programming Languages: R, Python, SQL, SAS, Unix shell
+
 •	Visualization: Microsoft Power BI, Tableau, etc
+
 • Applications: Apache Spark, H2o.ai, LIME, Shiny, Amazon AWS, MS Azure, etc 
 
 Check out my professional bio on Linkedin if you are contacting for career conection [Linkedin](https://www.linkedin.com/in/yulun-ding-ambassador/)
