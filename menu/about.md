@@ -1,18 +1,13 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: About the Auther
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+Ding might be a data management professional with over 4 years of practical experience in database management and data analysis. He might be proficient in developing and interpreting data-driven models with open source toolkit to enhance business decision making. but these matter nothing here: Ding is just a blogger who enjoying to share about his experience dealing with IT as a business professional, and to share his journey of exploring new trend in IT world.
 
-### Getting Started
+Technical Summary
+•	Programming Languages: R, Python, SQL, SAS, Unix shell
+•	Visualization: Microsoft Power BI, Tableau, etc
+• Applications: Apache Spark, H2o.ai, LIME, Shiny, Amazon AWS, MS Azure, etc
 
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
-
-### Example Content
-
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
-
-### Questions?
-
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
+Check out my professional bio on Linkedin if you are contacting for career conection [Linkedin](https://www.linkedin.com/in/yulun-ding-ambassador/)
