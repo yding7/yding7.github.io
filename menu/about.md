@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About the Auther
+image: cutting.jpg
 ---
 
 Ding might be a data management professional with over 4 years of practical experience in database management and data analysis. He might be proficient in developing and interpreting data-driven models with open source toolkit to enhance business decision making. but these matter nothing here: Ding is just a blogger who enjoying to share about his experience dealing with IT as a business professional, and to share his journey of exploring new trend in IT world.
