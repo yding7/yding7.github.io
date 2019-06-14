@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "Getting Started"
+title: "Getting Started with Lagrange"
 author: "Paul Le"
 categories: journal
 tags: [documentation,sample]
 image: forest.jpg
 ---
+# This is a blog fork from [here](https://lenpaul.github.io/Lagrange/), that introduce the theme of my blog.
 
 # Lagrange
 
