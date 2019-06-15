@@ -5,6 +5,7 @@ author: Yulun Ding
 categories: journal
 tags:
   - ggplot2
+images: fg1.png
 ---
 Today I am going to introduce an extension available for ggplot2 to create so-called ridgeline plots. I think the packages were created a long time ago by Claus O. Wilke (I will put related links for references…). I was surprised that I found this so late.
 
@@ -37,7 +38,8 @@ Ridgelineplot<-
              fill = cut))
 Ridgelineplot + geom_density_ridges()
 ```
-![]({{site.baseurl}}/https://cdn-images-1.medium.com/max/1600/1*MV7FWojCUw4RU-_8N5JGqg.jpeg)
+![fg1.png]({{site.baseurl}}/_posts/fg1.png)
+
 Another example:
 - x: Continuous 
 - y: Discrete 
@@ -52,7 +54,7 @@ ggplot(diamonds,
     geom_density_ridges_gradient()
 #The fill aesthetic can vary along the x axis.fill can be used for a continous variable
 ```
-![]({{site.baseurl}}/https://cdn-images-1.medium.com/max/1600/1*_iLekPaf9Zcu70DzwpANxg.jpeg)
+![fg2.png]({{site.baseurl}}/_posts/fg2.png)
 Other function available for you to explore:
 ```
 # These are all easy to use if you are ggplot heavy user
@@ -67,7 +69,7 @@ Ridgelineplot +
   scale_y_discrete(expand = c(0.01, 0)) +
   scale_x_continuous(limits = c(-100,20000), expand = c(0.01, 0))
 ```
-![]({{site.baseurl}}/https://cdn-images-1.medium.com/max/1600/1*JSfeeBixAD9d9NXvcOECTA.jpeg)
+![fg3.png]({{site.baseurl}}/_posts/fg3.png)
 Here are the explanations from the R Documentation
 
 `limits` A numeric vector of length two providing limits of the scale. Use NA to refer to the existing minimum or maximum.
