@@ -38,7 +38,7 @@ Ridgelineplot<-
              fill = cut))
 Ridgelineplot + geom_density_ridges()
 ```
-![fg1.png]({{site.baseurl}}/_posts/fg1.png)
+![fg1.png]({{site.baseurl}}/assets/img/fg1.png)
 
 Another example:
 - x: Continuous 
@@ -54,7 +54,7 @@ ggplot(diamonds,
     geom_density_ridges_gradient()
 #The fill aesthetic can vary along the x axis.fill can be used for a continous variable
 ```
-![fg2.png]({{site.baseurl}}/_posts/fg2.png)
+![fg2.png]({{site.baseurl}}//assets/img/fg2.png)
 Other function available for you to explore:
 ```
 # These are all easy to use if you are ggplot heavy user
@@ -69,7 +69,7 @@ Ridgelineplot +
   scale_y_discrete(expand = c(0.01, 0)) +
   scale_x_continuous(limits = c(-100,20000), expand = c(0.01, 0))
 ```
-![fg3.png]({{site.baseurl}}/_posts/fg3.png)
+![fg3.png]({{site.baseurl}}//assets/img/fg3.png)
 Here are the explanations from the R Documentation
 
 `limits` A numeric vector of length two providing limits of the scale. Use NA to refer to the existing minimum or maximum.
