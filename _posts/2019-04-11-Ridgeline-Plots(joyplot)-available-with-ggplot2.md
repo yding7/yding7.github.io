@@ -1,5 +1,10 @@
 ---
 published: true
+layout: post
+author: Yulun Ding
+categories: journal
+tags:
+  - ggplot2
 ---
 Today I am going to introduce an extension available for ggplot2 to create so-called ridgeline plots. I think the packages were created a long time ago by Claus O. Wilke (I will put related links for references…). I was surprised that I found this so late.
 
