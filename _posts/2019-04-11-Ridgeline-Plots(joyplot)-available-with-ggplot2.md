@@ -16,7 +16,7 @@ Note:
 
 Download package:
 ```
-install.packages(\\"ggridges\\")
+install.packages("ggridges")
 ```
  An example similar to the one on Github:
 
