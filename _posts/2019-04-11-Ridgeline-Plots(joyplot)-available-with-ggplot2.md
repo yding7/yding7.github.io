@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 # Ridgeline Plots(joyplot) available with ggplot2
 
@@ -104,4 +104,3 @@ Responses
 Mr Ding
 Be the first to write a response…
 Mr Ding
-
