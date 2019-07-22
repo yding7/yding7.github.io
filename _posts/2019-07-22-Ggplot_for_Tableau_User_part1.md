@@ -1,5 +1,11 @@
 ---
 published: false
+layout: post
+author: Ding
+categories: journal
+tags:
+  - ggplot
+image: null
 ---
 "Today, we wil use a tableau-like GUI addin function to explore the data and create an informative plot."
 
